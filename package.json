@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "write blog",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phancanh25/expressblog.git"
+  },
+  "author": "Canhhacker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phancanh25/expressblog/issues"
+  },
+  "homepage": "https://github.com/phancanh25/expressblog#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
